@@ -20,3 +20,11 @@
 ![Screenshots showing PR eligible to merge after merge commit - from Github.com](image-6.png)
 #### Screenshot showing completed merge - from Github.com
 ![Screenshot showing completed merge - from Github.com](image-7.png)
+
+### Activity 4
+#### Screenshot of successful commits - from local machine terminal
+![Screenshot of successful commits - from local machine terminal](image-8.png)
+#### Screenshot of successful commits - from Github.com
+![Screenshot of succesful commits](image-9.png)
+![Screenshot of commit 1 contents](image-10.png)
+![Screenshot of commit 2 contents](image-11.png)
