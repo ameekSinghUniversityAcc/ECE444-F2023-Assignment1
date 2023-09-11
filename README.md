@@ -1,4 +1,4 @@
-## Ameek Singh
+## Ameek Singh - ECE444 Git Repo
 
 ### Activity 1
 #### Screenshot of commit from Github.com
