@@ -30,6 +30,10 @@
 ![Screenshot of commit 2 contents](image-11.png)
 
 ### Activity 5
+#### References:
+> git branch: https://git-scm.com/book/en/v2/Git-Branching-Branch-Management
+
+> git rebase: https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History, https://git-scm.com/docs/git-rebase
 #### Screenshot of successful rebase with commit history - from local machine terminal
 ![Screenshot of successful rebase](image-12.png)
 #### Screenshot of interactive rebase to reorder commits (including commands specified) - from local machine terminal
@@ -37,6 +41,5 @@
 ![Screenshot of code used within interactive rebase to reorder commits](image-15.png)
 #### Screenshot of updated commit history - from local machine terminal
 ![Screenshot of updated commit history](image-16.png)
-(image-15.png)
 #### Screenshot of updated commit history - from Github.com
 ![Screenshot of updated commit history](image-17.png)
