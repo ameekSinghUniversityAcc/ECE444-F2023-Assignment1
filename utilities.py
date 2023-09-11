@@ -24,8 +24,5 @@ class utils:
     def formatter(n):
         if type(n) != int:
             return "Error!"
-        if n <= 1: return n
         #Referenced from: https://docs.python.org/3/library/functions.html (bin, oct)
         return (bin(n), oct(n))
-
-        

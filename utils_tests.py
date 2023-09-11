@@ -19,5 +19,5 @@ def utils_tests():
     assert(utilities.utils.formatter(128) == ('0b10000000', '0o200'))
     assert(utilities.utils.formatter(135) == ('0b10000111', '0o207'))
     # with negative int
-    assert(utilities.utils.formatter(-128) == -128)
+    assert(utilities.utils.formatter(-128) == ('-0b10000000', '-0o200'))
 
