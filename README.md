@@ -28,3 +28,15 @@
 ![Screenshot of succesful commits](image-9.png)
 ![Screenshot of commit 1 contents](image-10.png)
 ![Screenshot of commit 2 contents](image-11.png)
+
+### Activity 5
+#### Screenshot of successful rebase with commit history - from local machine terminal
+![Screenshot of successful rebase](image-12.png)
+#### Screenshot of interactive rebase to reorder commits (including commands specified) - from local machine terminal
+![Screenshot of successful interactive rebase to reorder commits](image-13.png)
+![Screenshot of code used within interactive rebase to reorder commits](image-15.png)
+#### Screenshot of updated commit history - from local machine terminal
+![Screenshot of updated commit history](image-16.png)
+(image-15.png)
+#### Screenshot of updated commit history - from Github.com
+![Screenshot of updated commit history](image-17.png)
