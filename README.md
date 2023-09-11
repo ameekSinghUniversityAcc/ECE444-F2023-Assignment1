@@ -9,3 +9,14 @@
 ### Activity 2
 #### Screenshot of merge command output
 ![Screenshot of merge command output](image-2.png)
+
+### Activity 3
+#### Screenshot of successful merge - from local machine terminal
+![Screenshot of successful merge - from local machine terminal](image-4.png)
+#### Screenshot of successful merge commit - from Github.com
+![Screenshot of successful merge commit - from Github.com](image-3.png)
+#### Screenshots showing PR eligible to merge after merge commit - from Github.com
+![Screenshots showing PR eligible to merge after merge commit - from Github.com](image-5.png)
+![Screenshots showing PR eligible to merge after merge commit - from Github.com](image-6.png)
+#### Screenshot showing completed merge - from Github.com
+![Screenshot showing completed merge - from Github.com](image-7.png)
