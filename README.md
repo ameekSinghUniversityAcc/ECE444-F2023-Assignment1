@@ -1,4 +1,4 @@
-## Ameek Singh - ECE444 Git Repo
+## Ameek Singh - ECE444 Git Repo (Assignment 1 README)
 
 ### Activity 1
 #### Screenshot of commit from Github.com
