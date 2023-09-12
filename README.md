@@ -28,6 +28,11 @@
 ![Screenshot of succesful commits](image-9.png)
 ![Screenshot of commit 1 contents](image-10.png)
 ![Screenshot of commit 2 contents](image-11.png)
+#### Screenshot of succesful commit fixing tiny bug with negative numbers not being formatted - from local machine terminal
+![Screenshot of succesful commit](image-20.png)
+#### Screenshot of succesful commit fixing tiny bug with negative numbers not being formatted - from Github.com
+![Screenshot of succesful commit](image-18.png)
+![Screenshot of commit 1 contents](image-19.png)
 
 ### Activity 5
 #### References:
